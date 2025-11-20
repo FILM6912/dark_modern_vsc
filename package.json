@@ -2,8 +2,8 @@
     "name": "dark-modern",
     "displayName": "Dark Modern (FILM69)",
     "description": "VsCode Dark Modern theme with same colours for python as javascript and a few extras for readability",
-    "publisher": "FILM69",
-    "version": "1.0.0",
+    "publisher": "nvidia-monitor",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -11,6 +11,7 @@
         "type": "git",
         "url": "https://github.com/FILM6912/dark_modern_vsc.git"
     },
+    "icon": "images/logo.png",
     "categories": [
         "Themes"
     ],

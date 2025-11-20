@@ -1,0 +1,35 @@
+{
+    "name": "dark-modern",
+    "displayName": "Dark Modern (FILM69)",
+    "description": "VsCode Dark Modern theme with same colours for python as javascript and a few extras for readability",
+    "publisher": "FILM69",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FILM6912/dark_modern_vsc.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Python",
+        "Dark Modern"
+    ],
+    "main": "./extension.js",
+    "activationEvents": [
+        "*"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Modern (FILM69)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-modern-theme.json"
+            }
+        ]
+    }
+}
